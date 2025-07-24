@@ -1,0 +1,1 @@
+echo "the world is ours, but its your choice to choose how to live it"
